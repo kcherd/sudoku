@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\professional\source\repos\sudoku\sudoku\source.cpp(12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\professional\source\repos\sudoku\sudoku\source.cpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\source\repos\sudoku\sudoku\source.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\source\repos\sudoku\sudoku\source.cpp(265): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\source\repos\sudoku\sudoku\source.cpp(267): warning C4018: <: несоответствие типов со знаком и без знака
+  sudoku.vcxproj -> C:\Users\Professional\source\repos\sudoku\Debug\sudoku.exe
